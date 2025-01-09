@@ -971,7 +971,7 @@ GameObject:
   - component: {fileID: 1354071472}
   - component: {fileID: 1354071473}
   m_Layer: 0
-  m_Name: Poke Interactor
+  m_Name: Left Poke Interactor
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1056,7 +1056,7 @@ GameObject:
   - component: {fileID: 1519039873}
   - component: {fileID: 1519039874}
   m_Layer: 0
-  m_Name: Poke Interactor
+  m_Name: Right Poke Interactor
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1143,7 +1143,7 @@ GameObject:
   - component: {fileID: 1560729764}
   - component: {fileID: 1560729763}
   m_Layer: 0
-  m_Name: Left Finger Interactor
+  m_Name: Left Finger
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1545,7 +1545,7 @@ GameObject:
   - component: {fileID: 1792430154}
   - component: {fileID: 1792430153}
   m_Layer: 0
-  m_Name: Right Finger Interactor
+  m_Name: Right Finger
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
