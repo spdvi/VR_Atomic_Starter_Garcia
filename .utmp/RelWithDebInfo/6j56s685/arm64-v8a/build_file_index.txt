@@ -1,0 +1,2 @@
+C:\Users\Miquel Oscar\Documents\Unity Projects\VR Atomic Starter Garcia\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\CMakeLists.txt
+C:\Users\Miquel Oscar\Documents\Unity Projects\VR Atomic Starter Garcia\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\GameActivity\CMakeLists.txt
