@@ -8,12 +8,15 @@ EditorBuildSettings:
   - enabled: 0
     path: Assets/Scenes/Continuous Movement and Snap Turn.unity
     guid: 99c9720ab356a0642a771bea13969a05
-  - enabled: 1
+  - enabled: 0
     path: Assets/Samples/XR Interaction Toolkit/3.0.7/Starter Assets/DemoScene.unity
     guid: 319dafa5c80f29f428dc1e0d03f04177
   - enabled: 0
     path: Assets/Scenes/Teleportation.unity
     guid: c852d02d73c353b45a84b8644be43a02
+  - enabled: 1
+    path: Assets/Scenes/Poke Interaction.unity
+    guid: 9b66a3a9c769ca6439d61d20408b3217
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 7bb64656b28e47a4e830aed9ab7e98b6, type: 2}
